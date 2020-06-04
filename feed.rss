@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <atom:link href="https://delvindeep.github.io/feed.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://delvinpod.github.io/delvindeep/feed.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Delvin Deep</title>
   <lastBuildDate>Sat, 23 May 2020 19:34:40 -0400</lastBuildDate>
@@ -17,7 +17,7 @@
   <itunes:keywords>history, politics, sports, current events, news, diplomacy, science, technology, lifestyle, culture</itunes:keywords>
   <itunes:owner>
     <itunes:name>Delvin Deep</itunes:name>
-    <itunes:email>delveintothings@protonmail.com</itunes:email>
+    <itunes:email>delvindeep2020@gmail.com</itunes:email>
   </itunes:owner>
   <image>
      <url>https://storage.buzzsprout.com/variants/d8ax05pv1njrzot4zaqrujhyg2yt/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2.jpg</url>
@@ -29,10 +29,27 @@
   <itunes:category text="History"/>
   <itunes:category text="News"/>
   <item>
+    <itunes:title>Confessions of an Economic Hitman - Panama</itunes:title>
+    <title>Confessions of an Economic Hitman - Panama</title>
+    <description><![CDATA[<p>Panama: The Canal, Omar Torrijos, Manuel Noriega, and the US Invasion.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
+    <content:encoded><![CDATA[<p>Panama: The Canal, Omar Torrijos, Manuel Noriega, and the US Invasion.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
+    <itunes:author>Delvin Deep</itunes:author>
+    <itunes:summary>Panama: The Canal, Omar Torrijos, Manuel Noriega, and the US Invasion.</itunes:summary>
+    <enclosure url="https://delvinpod.github.io/delvindeep/eps/ep3.mp3" length="46157086" type="audio/mpeg" />
+    <guid isPermaLink="false">https://delvinpod.github.io/delvindeep/eps/ep3.mp3</guid>
+    <pubDate>Thu, 04 June 2020 21:00:00 -0400</pubDate>
+    <itunes:duration>2613</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <itunes:title>Confessions of an Economic Hitman - SAMA</itunes:title>
     <title>Confessions of an Economic Hitman - SAMA</title>
-    <description><![CDATA[<p>The Saudi-Arabian Money Laundering Affair.</p><p><a rel="payment" href="https://twitter.com/delve_init">Support the show</a> (https://twitter.com/delve_init)</p>]]></description>
-    <content:encoded><![CDATA[<p>The Saudi-Arabian Money Laundering Affair.</p><p><a rel="payment" href="https://twitter.com/delve_init">Support the show</a> (https://twitter.com/delve_init)</p>]]></content:encoded>
+    <description><![CDATA[<p>The Saudi-Arabian Money Laundering Affair.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
+    <content:encoded><![CDATA[<p>The Saudi-Arabian Money Laundering Affair.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
     <itunes:author>Delvin Deep</itunes:author>
     <itunes:summary>The Saudi-Arabian Money Laundering Affair.</itunes:summary>
     <enclosure url="https://www.buzzsprout.com/1076743/3821582-confessions-of-an-economic-hitman-sama.mp3?blob_id=14415539" length="33265689" type="audio/mpeg" />
@@ -48,8 +65,8 @@
   <item>
     <itunes:title>Confessions of an Economic Hitman - Dirty Business</itunes:title>
     <title>Confessions of an Economic Hitman - Dirty Business</title>
-    <description><![CDATA[<p>Introduction to the podcast. Preview of John Perkins' Confessions of an Economic Hitman.</p><p><a rel="payment" href="https://twitter.com/delve_init">Support the show</a> (https://twitter.com/delve_init)</p>]]></description>
-    <content:encoded><![CDATA[<p>Introduction to the podcast. Preview of John Perkins' Confessions of an Economic Hitman.</p><p><a rel="payment" href="https://twitter.com/delve_init">Support the show</a> (https://twitter.com/delve_init)</p>]]></content:encoded>
+    <description><![CDATA[<p>Introduction to the podcast. Preview of John Perkins' Confessions of an Economic Hitman.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
+    <content:encoded><![CDATA[<p>Introduction to the podcast. Preview of John Perkins' Confessions of an Economic Hitman.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
     <itunes:author>Delvin Deep</itunes:author>
     <itunes:summary>Introduction to the podcast. Preview of John Perkins&#39; Confessions of an Economic Hitman.</itunes:summary>
     <enclosure url="https://www.buzzsprout.com/1076743/3704546-confessions-of-an-economic-hitman-dirty-business.mp3?blob_id=13853729" length="30180543" type="audio/mpeg" />
