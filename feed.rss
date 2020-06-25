@@ -10,7 +10,7 @@
   <copyright>&#x2117; &amp; © 2020 Delvin Deep</copyright>
   <itunes:subtitle><![CDATA[with Alex and Richard]]></itunes:subtitle>
   <itunes:author>Delvin Deep</itunes:author>
-  <itunes:summary><![CDATA[Conversations, banter! on history, society, sports, politics, current events, science, music, etc...Join us!]]></itunes:summary>
+  <itunes:summary><![CDATA[Conversations and banter on history, society, sports, politics, current events, science, music, etc...Join us!]]></itunes:summary>
   <itunes:type>episodic</itunes:type>
   <itunes:explicit>false</itunes:explicit>
   <description><![CDATA[Conversations, banter! on history, society, sports, politics, current events, science, music, etc...Join us!]]></description>
@@ -28,6 +28,24 @@
   <itunes:category text="Society &amp; Culture" />
   <itunes:category text="History"/>
   <itunes:category text="News"/>
+    <item>
+        <itunes:title>The Home of The Brave</itunes:title>
+        <title>Land of The Free</title>
+        <description><![CDATA[<p>Reflections on They Called Us Enemy by George Takei part 2; Japanese Americans in the military and the importance on integration in the military.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
+        <content:encoded><![CDATA[<p>Reflections on They Called Us Enemy by George Takei part 2; Japanese Americans in the military and the importance on integration in the military.</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
+        <itunes:author>Delvin Deep</itunes:author>
+        <itunes:summary>Reflections on They Called Us Enemy by George Takei part 2; Japanese Americans in the military and the importance on integration in the military..</itunes:summary>
+        <enclosure url="https://delvinpod.github.io/delvindeep/eps/ep4.mp3" length="54983445" type="audio/mpeg" />
+        <guid isPermaLink="false">https://delvinpod.github.io/delvindeep/eps/ep4.mp3</guid>
+        <pubDate>Wed, 17 June 2020 13:00:00 -0400</pubDate>
+        <itunes:duration>2544</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+    <item>
   <item>
       <itunes:title>Land of The Free</itunes:title>
       <title>Land of The Free</title>
@@ -38,10 +56,10 @@
       <enclosure url="https://delvinpod.github.io/delvindeep/eps/ep4.mp3" length="54983445" type="audio/mpeg" />
       <guid isPermaLink="false">https://delvinpod.github.io/delvindeep/eps/ep4.mp3</guid>
       <pubDate>Wed, 17 June 2020 13:00:00 -0400</pubDate>
-      <itunes:duration>2544</itunes:duration>
+      <itunes:duration>1354</itunes:duration>
       <itunes:keywords></itunes:keywords>
       <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
