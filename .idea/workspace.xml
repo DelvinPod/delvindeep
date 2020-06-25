@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2bdabe9-eca0-4096-a157-2c3d3d19cc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/feed.rss" beforeDir="false" afterPath="$PROJECT_DIR$/feed.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/length.py" beforeDir="false" afterPath="$PROJECT_DIR$/length.py" afterDir="false" />
-    </list>
+    <list default="true" id="e2bdabe9-eca0-4096-a157-2c3d3d19cc41" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rss" value="134" />
+          <entry key="rss" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="134" />
+          <entry key="PLAIN_TEXT" value="139" />
         </counts>
       </usages-collector>
     </session>
@@ -46,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/feed.rss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
-              <caret line="36" column="169" selection-start-line="36" selection-start-column="169" selection-end-line="36" selection-end-column="169" />
+            <state relative-caret-position="301">
+              <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -95,7 +92,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593050389428" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593050655031" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
@@ -126,6 +123,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -160,8 +158,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/feed.rss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="36" column="169" selection-start-line="36" selection-start-column="169" selection-end-line="36" selection-end-column="169" />
+        <state relative-caret-position="301">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
         </state>
       </provider>
     </entry>
