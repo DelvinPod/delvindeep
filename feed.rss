@@ -133,13 +133,13 @@
     <item>
       <itunes:title>EP-0: Trailer</itunes:title>
       <title>EP-0: Trailer</title>
-      <description><![CDATA[<p>Introduction to the podcast</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
-      <content:encoded><![CDATA[<p>Introduction to the podcast</p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
+      <description><![CDATA[<p>Introduction to the podcast. </p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></description>
+      <content:encoded><![CDATA[<p>Introduction to the podcast. </p><p><a rel="payment" href="https://twitter.com/delvinPod">Support the show</a> (https://twitter.com/delvinPod)</p>]]></content:encoded>
       <itunes:author>Delvin Deep</itunes:author>
       <itunes:summary>Introduction to the podcast</itunes:summary>
           <enclosure url="https://delvinpod.github.io/delvindeep/eps/ep0.mp3" length="46157086" type="audio/mpeg" />
       <guid isPermaLink="false">https://delvinpod.github.io/delvindeep/eps/ep0.mp3</guid>
-      <pubDate>Wed, 1 July 2020 13:00:00 -0400</pubDate>
+      <pubDate>Sat, 9 May 2020 13:00:00 -0400</pubDate>
       <itunes:duration>302</itunes:duration>
       <itunes:keywords></itunes:keywords>
       <itunes:season>1</itunes:season>
