@@ -1,0 +1,42 @@
+.header {
+    color: #fefdb2;
+    padding: 10px 10px 10px 10px;
+    font: 30px Gibson, sans-serif;
+    float: left
+}
+
+.headerBar{
+    float: right;
+    font: 15px Gibson, sans-serif;
+    vertical-align: center;
+}
+
+.subHeader{
+    color: #fefdb2;
+    padding: 0 10px 10px 0px;
+    font: 15px Gibson, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
